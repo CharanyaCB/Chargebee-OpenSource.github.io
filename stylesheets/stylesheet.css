@@ -53,7 +53,7 @@ a {
     display: block;
     width: 100%;
     padding: 0.75rem;
-    font-size: 0.9rem; }
+    font-size: 2.5rem; }
     .btn + .btn {
       margin-top: 1rem;
       margin-left: 0; } }
@@ -71,7 +71,7 @@ h1
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 8rem 6rem; } }
+    padding: 6rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
